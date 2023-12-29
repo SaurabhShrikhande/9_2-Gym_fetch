@@ -2,8 +2,12 @@ function Header (){
     return(
         <div>'
             <div style={{textAlign:"center" , display:"flex",flexDirection:"column", alignItem:"center" }}>
+             <h1 style={{backgroundColor:"black", color:"white", fontSize:"40px" ,padding:"10px, 10px"}}>Warriors </h1>
               <h1 >Where Fitness Meets Fun and Results Are Achieved</h1>
               <p >Include an inspiring image or video that showcases your gym's energetic atmosphere, trainers, or members working out.</p>
+              <div>
+
+              </div>
 
            </div>
             <hr></hr>
